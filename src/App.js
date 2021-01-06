@@ -14,9 +14,6 @@ function App() {
       </div>
       <div id = "outline">
     </div>
-      
-      
-
     </div>
   );
 }
